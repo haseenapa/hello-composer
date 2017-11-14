@@ -12,7 +12,7 @@
             "email": "haseena.p@bridge-india.in"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "haseenapa\\HelloComposer\\": "src/"
