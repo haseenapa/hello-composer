@@ -1,0 +1,21 @@
+{
+    "name": "haseenapa/hello-composer",
+    "description": "My first packagist package",
+    "type": "package",
+    "require": {
+        "php": ">=7.0.0",
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Haseena P A",
+            "email": "haseena.p@bridge-india.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "haseenapa\\HelloComposer\\": "src/"
+        }
+    }
+}
